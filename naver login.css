@@ -80,7 +80,7 @@ fieldset {
   display: inline-block;
   width: 20px;
   height: 20px;
-  background: url('unCheck.svg');
+  background: url('naver/unCheck.svg');
   background-size: cover;
   margin-right: 7px;
   vertical-align: -5px;
